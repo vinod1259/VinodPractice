@@ -1,0 +1,9 @@
+VPC
+EC2
+
+Subnet Route table IGW
+
+Elastic IP RT 
+
+
+create a branch through git tool in Linux
